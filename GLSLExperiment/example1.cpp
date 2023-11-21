@@ -1,5 +1,7 @@
 ﻿//Chương trình vẽ 1 hình lập phương đơn vị theo mô hình lập trình OpenGL hiện đại
 
+// Tác giả: Nguyễn Văn Trọng Khá (Tác giả tự code nhưng cô giáo bảo là đi copy :( 
+
 #include "Angel.h"  /* Angel.h là file tự phát triển (tác giả Prof. Angel), có chứa cả khai báo includes glew và freeglut*/
 #include "Cube.h"
 #include "stdio.h"
